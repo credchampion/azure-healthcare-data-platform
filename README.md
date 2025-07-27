@@ -295,7 +295,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **GitHub**: [@credchampion](https://github.com/credchampion)
 - **LinkedIn**: [adeoyeologunmeta-724b57218](https://linkedin.com/in/adeoyeologunmneta-724b57218)
 - **Email**: adeoyeologunmeta@gmail.com
-- **Portfolio**: [Live Azure Application](https://healthcare-platform-dev-webapp.azurewebsites.net)
+
 
 ## 🏆 Skills Demonstrated
 
